@@ -6,6 +6,14 @@ observed in this sub-goal is the change in surface area of mangrove forests. Man
 natural protection from coastal erosion.
 
 ## Design Sketch
-
+![image](https://github.com/stephaniedang/MSDV-Fall-22-Major-Studio-1/blob/main/Qualitative/qualitative_sketch.jpeg)
 
 ## First Prototype
+
+![image](https://github.com/stephaniedang/MSDV-Fall-22-Major-Studio-1/blob/main/Qualitative/Qualitative%20Prototype/Frame%204.png)
+
+![image](https://github.com/stephaniedang/MSDV-Fall-22-Major-Studio-1/blob/main/Qualitative/Qualitative%20Prototype/Frame%201.png)
+
+![image](https://github.com/stephaniedang/MSDV-Fall-22-Major-Studio-1/blob/main/Qualitative/Qualitative%20Prototype/Frame%202.png)
+
+![image](https://github.com/stephaniedang/MSDV-Fall-22-Major-Studio-1/blob/main/Qualitative/Qualitative%20Prototype/Frame%203.png)
