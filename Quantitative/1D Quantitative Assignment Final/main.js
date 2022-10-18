@@ -1,5 +1,7 @@
 /* global d3 */
 
+// beep boop beep boop
+
 let sdg_data;
 let allPlaces =[];
 let sortedPlaces = [];
