@@ -5,6 +5,8 @@ There is various data that tracks change in the extent of these ecosystems over 
 observed in this sub-goal is the change in surface area of mangrove forests. Mangroves play an important role in improving water quality and providing
 natural protection from coastal erosion.
 
+**Meta Data Link:** https://unstats.un.org/sdgs/dataportal/SDMXMetadataPage?6.6.1-EN_WBE_MANGC
+
 ## Design Sketch
 ![image](https://github.com/stephaniedang/MSDV-Fall-22-Major-Studio-1/blob/main/Qualitative/qualitative_sketch.jpeg)
 
